@@ -22,6 +22,7 @@ body {
     background-color: #81ecec;
     margin: 50px 0;
     height: 200px;
+    width: 110%;
     box-shadow: 0 2px 5px #ccc;
     text-align: left;
   }
@@ -35,6 +36,10 @@ body {
     top: 0;
     left: 0;
     display: flex;
+  }
+
+  .top p {
+    margin-left: 5%;
   }
   
   .name {
